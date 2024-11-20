@@ -4,9 +4,13 @@ implementation, and use of relational database systems. Examples of Systems Prog
 
 # Topics Covered
 Relational data model
+
 Entity-Relationship (ER) model for database design
+
 Relational Algebra, SQ
+
 Database programming,
+
 Functional dependencies and normalization
 
 # Code Written By Jed
