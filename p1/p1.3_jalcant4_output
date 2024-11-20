@@ -1,0 +1,110 @@
+
+Table MEASUREMENT dropped.
+
+
+Table PHONENUMBER dropped.
+
+
+Table EMPLOYEE dropped.
+
+
+Table ROOM dropped.
+
+
+Table DEPARTMENT dropped.
+
+
+Table BUILDING dropped.
+
+
+Table DEPARTMENT created.
+
+
+Table BUILDING created.
+
+
+Table ROOM created.
+
+
+Table EMPLOYEE created.
+
+
+Table PHONENUMBER created.
+
+
+Table MEASUREMENT created.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+PHONE           DEPTNAME                                           STREETADDRESS                                     
+--------------- -------------------------------------------------- --------------------------------------------------
+123-456-7890    HR                                                 123 Main St                                       
+987-654-3210    IT                                                 456 Tech Rd                                       
+
+no rows selected
+
+BUILDINGNAME                                       ROOMNUMBER
+-------------------------------------------------- ----------
+Building A                                                102
+
+
+BUILDINGNAME                                       NUMBEROFROOMS
+-------------------------------------------------- -------------
+Building A                                                     2
+Building B                                                     1
+
+
+BUILDINGNAME                                       ROOMNUMBER AVGTEMPERATURE
+-------------------------------------------------- ---------- --------------
+Building A                                                101             22
+Building B                                                201             20
+
+no rows selected
+
+BUILDINGNAME                                       ROOMNUMBER       AREA
+-------------------------------------------------- ---------- ----------
+Building A                                                102        150
+
+
+PHONE          
+---------------
+123-111-1111
+

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ucp11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ojdbc11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mybatis-3.5.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
